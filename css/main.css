@@ -1,0 +1,35 @@
+
+ul {
+	/* list-style-type: hiragana; */
+}
+
+img
+{
+	margin-bottom: 25px;
+}
+
+.thumb
+{
+	cursor: pointer;
+}
+
+.higher
+{
+//	order: 3;
+//	flex-grow: 1;
+	height: 400px;
+}
+
+.normal
+{
+//	order: 2;
+//	flex-grow: 1;
+	height: 100px;
+}
+
+.lower
+{
+//	order: 1;
+//	flex-grow: 1;
+	height: 50px;
+}
